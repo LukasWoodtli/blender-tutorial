@@ -5,16 +5,16 @@ Meine Dateien zum [Blender Tutorial](http://blender-tutorial.de/)
 
 | Teil | Titel                                                   | Erledigt |
 |------|---------------------------------------------------------|----------|
-|   1  | Einführung                                              |          |
-|   2  | Die Arbeitsoberfläche                                   |          |
-|   3  | Die User Preferences im Detail - Interface              |          |
-|   4  | Die User Preferences im Detail - Editing I              |          |
-|   5  | Die User Preferences im Detail - Editing II             |          |
-|   6  | Bewegen im dreidimensionalen Raum                       |          |
-|   7  | Objekte transformieren und hinzufügen                   |          |
-|   8  | Eine Figur aus Grundobjekten erstellen                  |          |
-|   9  | Objekte organisieren                                    |          |
-|  10  | Das Mesh - Vertices, Edges und Faces                    |          |
+|   1  | Einführung                                              |     ✓    |
+|   2  | Die Arbeitsoberfläche                                   |     ✓    |
+|   3  | Die User Preferences im Detail - Interface              |     ✓    |
+|   4  | Die User Preferences im Detail - Editing I              |    (✓)   |
+|   5  | Die User Preferences im Detail - Editing II             |    (✓)   |
+|   6  | Bewegen im dreidimensionalen Raum                       |     ✓    |
+|   7  | Objekte transformieren und hinzufügen                   |     ✓    |
+|   8  | Eine Figur aus Grundobjekten erstellen                  |     ✓    |
+|   9  | Objekte organisieren                                    |     ✓    |
+|  10  | Das Mesh - Vertices, Edges und Faces                    |     ✓    |
 |  11  | Polygon Modelling mit Extrude                           |          |
 |  12  | Polygon Modelling mit Extrude II                        |          |
 |  13  | Das Snap Menu                                           |          |
